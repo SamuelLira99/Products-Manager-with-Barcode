@@ -1,0 +1,24 @@
+.layoutPrincipal {
+  -fx-background-image: url("/img/bg-main.jpeg");
+  -fx-background-size: 100% 100%;
+}
+
+TextField, PasswordField {
+  -fx-background-color: #ff6600;
+  -fx-text-fill: #333;
+}
+
+Button {
+  -fx-background-color: #ff6600;
+  -fx-text-fill: #333;
+}
+
+Button:hover {
+  -fx-background-color: #333;
+  -fx-text-fill: #ff6600;
+  -fx-cursor: hand;
+}
+
+Label {
+  -fx-text-fill: #fff;
+}

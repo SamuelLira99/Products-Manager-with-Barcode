@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Samuel Lira
+Main-Class: Marquinhos
+Class-Path: lib/mysql-connector-java-5.1.44-bin.jar
+
